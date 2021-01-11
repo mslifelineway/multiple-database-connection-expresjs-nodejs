@@ -46,8 +46,8 @@
   });
 
 exports.testServerDbConfig = {
-  host: "http://159.65.149.7/",
-  database: "pr_live_new",
+  host: "159.65.149.7",
+  database: "pr_live_db_new",
   user: "postgres",
   password: "4321",
   port: 5432,
