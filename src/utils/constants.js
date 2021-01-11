@@ -1,0 +1,4 @@
+exports.DATABASE_TYPE = {
+  POSTGRES_DB: "POSTGRES_DB",
+  MONGO_DB: "MONGO_DB",
+};
